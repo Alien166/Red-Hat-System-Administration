@@ -10,3 +10,18 @@ This chapter provides guidance on installing and updating software packages on R
 #### Using yum
 ```bash
 sudo yum install <package_name>
+Using dnf
+sudo dnf install <package_name>
+Updating Software Packages
+Using yum
+sudo yum update
+
+Using dnf
+sudo dnf upgrade
+
+Removing Software Packages
+Using yum
+sudo yum remove <package_name>
+
+Using dnf
+sudo dnf remove <package_name>
