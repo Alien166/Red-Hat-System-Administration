@@ -1,0 +1,505 @@
+    1  python manage.py runserver
+    2  python manage.py runserver
+    3  py manage.py runserver
+    4  /bin/python /home/toba/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/toba/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+    5  ipconfig
+    6  ip config
+    7  ipconfig
+    8  ifconfig
+    9  ifconfig all
+   10  ifconfig --help
+   11  ifconfig -a
+   12  getmac
+   13  cd Downloads
+   14  mkdir packtracer
+   15  ar -x Ciscopacket
+   16  ar -x CiscoPackTracer_81-_Ununtu_64bit.deb  --output
+   17  ar -x CiscoPackTracer_810_Ununtu_64bit.deb  --output
+   18  ar -x CiscoPackTracer_810_Ununtu_64bit.deb  --output=packettracer
+   19  ar -x CiscoPacketTracer822_amd64_signed.deb  --output=packettracer
+   20  tar -xvzf PacketTracer-7.3.0-XXX.tar.gz
+   21  netstat -n
+   22  ifconfig dispalydns
+   23  ifconfig help
+   24  ifconfig 
+   25  ifconfig --help
+   26  host google.com
+   27  dnslookup
+   28  dig google.com
+   29  nslookup
+   30  /bin/python /home/toba/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/toba/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+   31  mkdir project
+   32  cd project
+   33  git clone https://github.com/rajaprerak/movie_recommender.git
+   34  python manage.py runserver
+   35  sudo dnf update
+   36  sudo dnf -y install dnf-plugins-core
+   37  sudo dnf config-manager \
+   38  sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+   39  sudo dnf install docker-ce docker-ce-cli containerd.io
+   40  sudo systemctl start docker
+   41  sudo systemctl enable docker
+   42  sudo docker --version
+   43  docker -v
+   44  sudo systemctl status docker
+   45  [200~sudo systemctl start docker
+   46  sudo systemctl start docker
+   47  docker run hello-world
+   48  sudo docker run hello-world
+   49  clear
+   50  docker run hello-world
+   51  sudo docker run hello-world
+   52  sudo docker pull hello-world
+   53  sudo docker build hello-world
+   54  sudo docker run hello-world
+   55  sudo docker ps -all
+   56  sudo docker run hello-world
+   57  docker container ls -a
+   58  sudo docker container ls -a
+   59  sudo docker images
+   60  sudo docker rm a9dbf69d8b0f
+   61  sudo docker container ls -a
+   62  sudo docker rm 8df4760ba128
+   63  sudo docker container ls -a
+   64  sudo docker rm ac0e7f90c689
+   65  sudo docker container ls -a
+   66  sudo docker rm 3e63df23f471
+   67  sudo docker container ls -a
+   68  sudo docker images
+   69  sudo docker image rm hello-world
+   70  sudo docker images
+   71  docker network ls
+   72  sudo docker network ls
+   73  sudo doker container run redis
+   74  sudo docker container run redis
+   75  sudo docker container ls
+   76  sudo docker container run -d radis
+   77  sudo docker container run  radis
+   78  docker login
+   79  sudo docker container run redis
+   80  docker run --help
+   81  sudo docker run redis
+   82  sudo docker ps -a
+   83  docker container redis:alpine
+   84  docker container run redis:alpine
+   85  docker images -ls
+   86  docker image -ls
+   87  docker image ls
+   88  docker container ls
+   89  sudo docker container ls
+   90  sudo docker run -d hello-world
+   91  docker container ls
+   92  sudo docker container ls
+   93  sudo docker images ls
+   94  sudo docker image ls
+   95  sudo docker imsges
+   96  sudo docker images
+   97  sudo docker container run -d redis:alpine
+   98  sudo docker container ls
+   99  sudo docker ps -a
+  100  docker image ls
+  101  sudo docker image ls
+  102  sudo docker container run -d redis
+  103  sudo docker image ls
+  104  sudo docker ps  -a
+  105  sudo docker rm 150f2
+  106  sudo docker rm 150f2150f2f14cb41
+  107  sudo docker container rm 150f2f14cb41
+  108  sudo docker  rm 150f2f14cb41
+  109  clear
+  110  sudo docker ps  -a
+  111  sudo docker image ls
+  112  sudo docker inspect redis
+  113  sudo docker inspect redis:alpine
+  114  sudo docker logs  redis:alpine
+  115  sudo docker ps -a
+  116  sudo docker logs  197d660e0cce
+  117  sudo docker logs  loving_pascal
+  118  sudo docker logs  197
+  119  docker stats 197
+  120  sudo docker stats 197
+  121  sudo docker info
+  122  sudo docker inspect --format='{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' 197
+  123  sudo docker ps -a
+  124  sudo docker inspect --format='{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' ea6
+  125  sudo docker inspect --format='{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' f46
+  126  sudo docker inspect --format='{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' 150
+  127  history
+  128  sudo docker ps -a
+  129  sudo docker rm 150f2f14cb41
+  130  sudo docker stop 150f2f14cb41
+  131  sudo docker rm 150f2f14cb41
+  132  sudo docker ps -a
+  133  ping 129.168.1.1
+  134  ping localhost
+  135  netstat
+  136  ping 192.168.1.1
+  137  ping 192.168.1.1 -n 5
+  138  ping 192.168.1.1 -t
+  139  ping 192.168.1.1 -s 5
+  140  ping --help
+  141  ifconfig
+  142  ip
+  143  ip adress show
+  144  ip address show
+  145  route -n
+  146  ping google.com
+  147  tracerroute google.com
+  148  traceroute google.com
+  149  ss -tulpn
+  150  hostname
+  151  dig google.com
+  152  ping 192.168.1.1
+  153  ping 192.168.1.1 -t
+  154  ping 192.168.1.1 -n 6
+  155  ping 192.168.1.5
+  156  if config
+  157  ifconfig
+  158  ipaddr
+  159  ip addr
+  160  ip link
+  161  ping 172.17.0.1
+  162  ping -c6 172.17.0.1
+  163  tracepath 8.8.8.8
+  164  arp -a
+  165  netstat -ntpu
+  166  ss -ntpu
+  167  route
+  168  nmcli device show 
+  169  nmcli connection  show 
+  170  nmcli con  sh 
+  171  nmcli dev  sh 
+  172  nmcli connection add con-name lab type ethernet ifname 
+  173  nmcli connection add con-name lab type ethernet ifname enp0s25 ipv4.method manual ipv4.addresses 172.16.0.1 ipv4.gateway 172.16.0.1 autoconnect no connection.autoconnect yes
+  174  nmcli con sh
+  175  nmcli con up lab
+  176  nmcli con sh
+  177  nmcli con down lap
+  178  nmcli connection show 
+  179  systemctl status NetworkManager
+  180  ls /etc/NetworkManager/system-connections/
+  181  ls /etc/NetworkManager/system-connections/lab.nmconnection 
+  182  nano /etc/NetworkManager/system-connections/lab.nmconnection 
+  183  im  /etc/NetworkManager/system-connections/lab.nmconnection 
+  184  vim /etc/NetworkManager/system-connections/lab.nmconnection 
+  185  ls /etc/NetworkManager/system-connections/
+  186  vim /etc/NetworkManager/system-connections/lab.nmconnection 
+  187  vim /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  188  nmcli connection sh
+  189  systemctl restart NetworkManager
+  190  cat /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  191  sudo cat /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  192  ls /etc/NetworkManager/system-connections/
+  193  ls /etc/NetworkManager/system-connections/lap
+  194  sudo nano /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  195  sudo cat /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  196  nmcli connection show 
+  197  nmcli connection up KickHub 
+  198  nmcli connection show 
+  199  nmcli connection modify lab ipv4.addresses 192.16.1.0 
+  200  ifconfig
+  201  sudo cat /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  202  sudo cat /etc/NetworkManager/system-connections/lab.nmconnection 
+  203  nmcli con modify lab ipv4.addresses 192.18.1.0
+  204  sudo cat /etc/NetworkManager/system-connections/lab.nmconnection 
+  205  sudo cat /etc/NetworkManager/system-connections/Kic
+  206  sudo cat /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  207  sudo cat /etc/NetworkManager/system-connections/lab.nmconnection 
+  208  nmcli con modify lab ipv4.dns 8.8.8.8
+  209  sudo cat /etc/NetworkManager/system-connections/lab.nmconnection 
+  210  nmcli con modify lab +ipv4.dns 4.2.2.2
+  211  sudo cat /etc/NetworkManager/system-connections/lab.nmconnection 
+  212  nmcli connection delete lap
+  213  nmcli connection delete lab
+  214  nmcli connection sh
+  215  ls /etc/NetworkManager/system-connections/
+  216  cat /etc/NetworkManager/system-connections/
+  217  cat /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  218  sudo  /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  219  sudo cat  /etc/NetworkManager/system-connections/KickHub.nmconnection 
+  220  nmcli con sh
+  221  nmcli dev sh
+  222  nmcli device connect wlo1 
+  223  nmcli con sh
+  224  nmcli dev sh
+  225  nmcli dev disconnect wlo1 
+  226  nmcli con sh
+  227  nmcli dev connect wlo1 
+  228  nmcli dev disconnect wlo1 
+  229  nmcli dev sh
+  230  nmcli dev sh wlol
+  231  nmcli dev connect wlo1 
+  232  nmcli dev sh
+  233  nmcli con sh
+  234  nmcli dev status 
+  235  nmuti
+  236  nmtui
+  237  history 
+  238  cd /homw
+  239  cd /home
+  240  ls /DevOps/
+  241  ls Devops/
+  242  ls DevOps/
+  243  cd /DevOps
+  244  cd
+  245  cd DevOps
+  246  ls
+  247  cd Linux-admin/
+  248  history > ch_12 lab
+  249  history > ch_12 lab12
+  250  history > ch_12 
+  251  ls
+  252  cat ch_12 
+  253  [200~/home/toba/.var/app/com.jetbrains.CLion/config/JetBrains/CLion2023.3/.lock
+  254  /home/toba/.var/app/com.jetbrains.CLion/config/JetBrains/CLion2023.3/.lock
+  255  sudo /home/toba/.var/app/com.jetbrains.CLion/config/JetBrains/CLion2023.3/.lock
+  256  [200~sudo dnf install spotify-client
+  257  ~
+  258  sudo dnf install spotify-client
+  259  hostname
+  260  hostname servera.lab.com
+  261  sudo hostname servera.lab.com
+  262  hostname
+  263  hostnamectl 
+  264  sudo hostnamectl server.lab.com
+  265  sudo hostnamectl set-hostname server.lab.com
+  266  hostnamectl 
+  267  hostname
+  268  sudo cat/etc/hostname
+  269   cat/etc/hostname
+  270  cat /etc/resolv.conf 
+  271  sudo nano /etc/resolv.conf 
+  272  cat /etc/hostname
+  273  vim /etc/hoatname
+  274  sudo dnf install snapd
+  275  sudo ln -s /var/lib/snapd/snap /snap
+  276  sudo snap install putty-gtk --edge
+  277  systemctl status sshd
+  278  systemctl active  sshd
+  279  systemctl enable sshd
+  280  systemctl status sshd
+  281  systemctl start sshd
+  282  systemctl status sshd
+  283  ifconfig 
+  284  ip addr
+  285  cat /etc/NetworkManager/system-connections/
+  286  ls /etc/NetworkManager/system-connections/
+  287  cat /etc/ssh
+  288  ls /etc/ssh
+  289  ss -tnl |grep 22
+  290  ss -tnl
+  291  ssh-keygen rsa
+  292  cat .ssh/id-rsa
+  293  echo"on server only"
+  294  echo "on server only"
+  295  cat /etc/ssh/sshd_config
+  296  sudo cat /etc/ssh/sshd_config
+  297  sudo cat /etc/ssh/sshd_config |grep root
+  298  sudo nano /etc/ssh/sshd_config
+  299  su -
+  300  sudo passwd
+  301  clear
+  302  su -
+  303  cd DevOps
+  304  cd linux-admin
+  305  cd /linux-admin
+  306  cd Linux-admin
+  307  touch lab_services and Daemons
+  308  history > lab_services and Daemons 
+  309  history >> lab_services and Daemons 
+  310  rm lab_services 
+  311  rm Daemons 
+  312  ls
+  313  touch lab_services
+  314  history >lab_services 
+  315  cat lab_services 
+  316  su -
+  317  cd DevOps
+  318  cd Linux-admin/
+  319  touch lab_ManagingNetwork
+  320  history >lab_ManagingNetwork 
+  321  cat lab_ManagingNetwork 
+  322  clear
+  323  su -
+  324  cd DevOps
+  325  cd Linux-admin/
+  326  touch secure_ssh
+  327  history > secure_ssh 
+  328  cat secure_ssh 
+  329  clear
+  330  ifconfig 
+  331  ss -tunp
+  332  ss -tunp |grep 22
+  333  w
+  334  users
+  335  systemctl status sshd
+  336  ls /etc/ssh/
+  337  ls /etc/ssh
+  338  ss -tunp |grep 22
+  339  ssh-keygen rsa
+  340  cat .ssh/id_rsa
+  341  ssh -help
+  342  ls /etc/ssh
+  343  ssh-copy-id -i .ssh/id_rsa_pub
+  344  ssh-copy-id -i .ssh/id_rsa_pub  toba@serverz.com
+  345  .ssh -help
+  346  ssh -help
+  347  .ssh -b
+  348  cat /etc/ssh/sshd_config
+  349  su - 
+  350  ifconfig 
+  351  systemctl status sshd
+  352  cd DevOps
+  353  cd ..
+  354  systemctl reload sshd
+  355  exit
+  356  ls
+  357  tar -czf mybackup.tar.gz DevOps /etc/passwd
+  358  ls -ltr
+  359  tar -cJpf mybackup.tar.bz2 DevOps /etc/passwd
+  360  ls -lrh
+  361  tar -cjpf mybackup.tar.xz DevOps /etc/passwd
+  362  ls -lth
+  363  man tar
+  364  tar -cjpf mybackup.tar.bz2 DevOps /etc/passwd
+  365  tar -cJpf mybackup.tar.xz DevOps /etc/passwd
+  366  ls -lth
+  367  tar -tf mybackup.tar.gz 
+  368  tar -tf mybackup.tar.bz2
+  369  mkdir /tmp/myfile
+  370  tar -xf mybackup.tar.xz -C /tmp.myfile
+  371  tar -xf mybackup.tar.xz -C /tmp/myfile
+  372  ls -lth /tmp/myfile
+  373   gunzip mybackup.tar.gz 
+  374  ls -lh
+  375  sftp mybackup.tar.xz
+  376  ls
+  377  ls -l
+  378  ls -l /tmp
+  379  cd DevOps
+  380  cd Linux-admin/
+  381  touch Archiving_transferring_files
+  382  history >Archiving_transferring_files 
+  383  cat Archiving_transferring_files 
+  384  ls
+  385  ls -lth
+  386  scp mybackup.tar.gz toba@192.168.1.8 :/tmp
+  387  scp mybackup.tar.gz toba@192.168.1.8 :/tmp/
+  388  scp mybackup.tar.gz toba@192.168.1.8 :/DevOps/
+  389  scp mybackup.tar.gz toba@192.168.1.8 :/tmp/myfiles
+  390  scp mybackup.tar.gz toba@192.168.1.8:/tmp/myfiles
+  391  scp mybackup.tar.xz toba@192.168.1.8:/tmp/myfiles
+  392  sftp mybackup.tar.xz
+  393  ls -l
+  394  rsync mybackup.tar.xz toba@192.168.1.8
+  395  rsync mybackup.tar.xz toba@192.168.1.8:/tmp
+  396  history 
+  397  tar -cf mybackup.tar /DevOps
+  398  tar -cf mybackup.tar DevOps
+  399  ls mybackup
+  400  su -
+  401  mkdir /tmp/saveback
+  402  cd /tmp/saveback/
+  403  tar -tzf ~/config-back.tar.gz 
+  404  tar -xzf ~/config-back.tar.gz 
+  405  ls -lr
+  406  cd ..
+  407  cd DevOps
+  408  cd
+  409  cd DevOps
+  410  cd Linux-admin/
+  411  touch Lab_Archiving&Transfer
+  412  sudo snap install whatsapp-for-linux
+  413  touch lab_Archiving
+  414  history >lab_Archiving 
+  415  cat Lab_Archiving 
+  416  cat lab_Archiving 
+  417  su -
+  418  bye
+  419  exit
+  420  which git
+  421  cat /usr/bin/git
+  422  ls/usr/bin
+  423  ls /usr/bin
+  424  ls /usr/bin | grep gith
+  425  ls /usr/bin | grep git
+  426  git status
+  427  git config --global username="Alien166"
+  428  git config --global username=Alien166
+  429  git config --global user.name "Alien166"
+  430  user.name
+  431  user.nam
+  432  git config --global user.mail "abdowagieh@gmail.com"
+  433  git config --global user.mail
+  434  git config --global user.name
+  435  git status
+  436  git config --global core.editor "nano"
+  437  git config --global core.editor
+  438  git config --global init.defaultBranch main
+  439  git config --global init.defaultBranch 
+  440  ifconfig 
+  441  subscription-manager
+  442  subscription-manager status 
+  443  yum repoliSt
+  444  yum repolist
+  445  subscription-manager register 
+  446  subscription-manager status 
+  447  subscription-manager refresh 
+  448  subscription-manager status 
+  449  subscription-manager list
+  450  subscription-manager status 
+  451  subscription-manager attach --auto 
+  452  subscription-manager list --available 
+  453  subscription-manager attach pool=2c948c2b8993ee9d0189e04566036111
+  454  subscription-manager attach --pool = 2c948c2b8993ee9d0189e04566036111
+  455  su -
+  456  cd
+  457  cd DevOps
+  458  ls
+  459  cd Linux-admin/
+  460  ls
+  461  touch InstallingPackages
+  462  ls
+  463  history
+  464  history > InstallingPackages 
+  465  cat InstallingPackages 
+  466  ls /etc/pki/product
+  467  cat  /etc/pki/product
+  468  ls /etc/pki/product
+  469  ls -l /bin/ | grep yum
+  470  dnf list "http"
+  471  dnf list kernel
+  472  dnf repolist all
+  473  cd /etc/yum.repos.d
+  474  vim errata.repo
+  475  cd /etc/yum.repos.d
+  476  nano errata.repo
+  477  ls
+  478  nano errata.repo
+  479  su -
+  480  cd DevOps
+  481  ls
+  482  cd Linux-admin/
+  483  touch Accessing_File_System
+  484  ls
+  485  grep Accessing_File_System
+  486  history > Accessing_File_System 
+  487  cat Accessing_File_System 
+  488  su -
+  489  dnf install cockpit
+  490  su -
+  491  echo "Hello"
+  492  ls
+  493  cd DevOps
+  494  ls
+  495  cd .. /GCP
+  496  cd 
+  497  cd GCP
+  498  ls
+  499  cd
+  500  ifconfig 
+  501  cd DevOps
+  502  ls
+  503  cd Linux-admin/
+  504  touch AnalyzingServers
+  505  history > AnalyzingServers 
