@@ -79,37 +79,7 @@ Chapter 1 of the Red Hat Admin II course focuses on enhancing productivity at th
   - `tmux ls`: List all tmux sessions.
   - `tmux attach -t session_name`: Attach to a tmux session.
 
-## Practical Exercises
 
-1. **Exercise 1: Using Command History and Aliases**
-   - Practice using command history to repeat and modify commands.
-   - Create and use aliases to simplify common commands.
-
-2. **Exercise 2: Text Processing with `grep`, `sed`, and `awk`**
-   - Use `grep` to search for specific patterns in text files.
-   - Use `sed` to edit text in files.
-   - Use `awk` to extract and process text data.
-
-3. **Exercise 3: Advanced File Management**
-   - Find and manipulate files using `find`, `locate`, and `xargs`.
-   - Sort and filter text data with `sort` and `uniq`.
-   - Extract and merge data from files using `cut` and `paste`.
-
-4. **Exercise 4: Basic Shell Scripting**
-   - Write simple shell scripts to automate tasks.
-   - Use variables, conditional statements, and loops in scripts.
-
-5. **Exercise 5: Using `screen` and `tmux`**
-   - Create and manage multiple terminal sessions with `screen` and `tmux`.
-   - Practice session management and navigation.
-
-## Additional Resources
-
-- [Red Hat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
-- [Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
-- [GNU Core Utilities](https://www.gnu.org/software/coreutils/)
-- [tmux Documentation](https://github.com/tmux/tmux/wiki)
-- [GNU Screen User’s Manual](https://www.gnu.org/software/screen/manual/screen.html)
 
 ## Conclusion
 
